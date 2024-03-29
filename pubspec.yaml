@@ -1,0 +1,112 @@
+name: mrigrakksha
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=2.18.4 <3.0.0'
+dependencies:
+  
+  flutter:
+    sdk: flutter
+  font_awesome_flutter: ^10.3.0
+  carousel_slider: ^4.2.1
+  cupertino_icons: ^1.0.2
+  intl: ^0.17.0
+  neopop: ^1.0.2
+  pie_chart: ^5.0.0
+  # splashscreen: ^1.3.5
+  syncfusion_flutter_charts: ^19.1.56
+  intro_slider: ^2.2.9
+  animated_splash_screen: ^1.3.0
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+
+    - assets/gen.png
+    - assets/
+    - assets/pra.png
+    - assets/food.png
+    - assets/quiz.png
+    - assets/winter.png
+    - assets/summer.png
+    - assets/re.png
+    - assets/ad.png
+    - assets/he.png
+    - assets/own.png
+    - assets/dog1.jpg
+    - assets/images.jpeg
+    - assets/dogo.jpg
+    - assets/profile.jpg
+    - assets/dog2.jpeg
+    - assets/prakrithi1.jpg
+    - assets/GeneralCare/
+    - assets/seasons/
+    - assets/food_recommendations/
+    - assets/Homepage/
+    - assets/re.png
+    - assets/helpline/blue.png
+    - assets/helpline/bluecross.png
+    - assets/helpline/dogcall.png
+    - assets/helpline/his.png
+    - assets/helpline/pet.jpg
+    - assets/helpline/peta.png
+    - assets/helpline/petapic.png
+    - assets/helpline/help.png
+    - assets/helpline/ph.png
+    - assets/logo.png
+    - assets/seasons/petparent/1.jpg
+    - assets/seasons/petparent/2.jpg
+    - assets/seasons/petparent/3.jpg
+    - assets/seasons/petparent/4.jpg
+    - assets/seasons/petparent/5.jpg
+    - assets/seasons/petparent/6.jpg
+    - assets/seasons/petparent/7.jpg
+    - assets/seasons/petparent/8.jpg
+    - assets/seasons/petparent/9.jpg
+    - assets/seasons/petparent/11.png
+    - assets/seasons/skincare/1.jpg
+    - assets/seasons/skincare/2.jpg
+    - assets/seasons/skincare/3.jpg
+    - assets/seasons/skincare/4.jpg
+    - assets/seasons/skincare/5.jpg
+    - assets/seasons/skincare/6.jpg
+    - assets/seasons/skincare/7.jpg
+    - assets/seasons/skincare/8.jpg
+    - assets/seasons/skincare/9.jpg
+    - assets/seasons/skincare/10.jpg
+    - assets/seasons/grooming/1.jpg
+    - assets/seasons/grooming/2.jpg
+    - assets/seasons/grooming/3.jpg
+    - assets/seasons/grooming/4.jpg
+    - assets/seasons/grooming/5.jpg
+    - assets/seasons/grooming/6.jpg
+    - assets/Homepage/heat.png
+    - assets/heat/page1.jpg
+    - assets/heat/page2.jpg
+    - assets/heat/page3.jpg
+    - assets/heat/page4.jpg
+    - assets/heat/page5.jpg
+    - assets/heat/page6.jpg
+    - assets/heatdiaper.jpeg
+    - assets/heat/care/p1.jpg
+    - assets/heat/care/p2.jpg
+    - assets/heat/care/button.jpg
+    - assets/heat/care/p3.jpg
+    - assets/heat/care/p4.jpg
+    - assets/heat/care/p5.jpg
+    - assets/Homepage/vaccine.png
+    - assets/generalcare/brushing/
+    - assets/generalcare/bathing/
+    - assets/generalcare/trimming/
+    - assets/generalcare/massaging/
+
+    
+
+   
+    
+
+   
